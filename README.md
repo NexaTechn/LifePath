@@ -47,12 +47,12 @@ More than just a photo album, **LIFE PATH** tracks your adventures in an interac
 Screenshots are available in the `.github` folder:
 
 - **Login Page**:  
-  ![Login Page](.github/Screenshot-1.png)
+  ![Login Page](.github/screenshots/Screenshot-1.png)
 - **Timeline**:  
-  ![Timeline](.github/Screenshot-2.png)
+  ![Timeline](.github/screenshots/Screenshot-2.png)
 - **Search Routes**:  
-  ![Search Routes Page](.github/Screenshot-4.png)
+  ![Search Routes Page](.github/screenshots/Screenshot-4.png)
 - **Photo Section**:  
-  ![Photo Section](.github/Screenshot-3.png)
+  ![Photo Section](.github/screenshots/Screenshot-3.png)
 - **Tracking System**:  
-  ![Tracking](.github/Screenshot-5.png)
+  ![Tracking](.github/screenshots/Screenshot-5.png)
